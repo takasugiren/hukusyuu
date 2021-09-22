@@ -21,11 +21,15 @@ p {
   margin: 33px;
 }
 
-.start-link {
+.link {
   color: black;
 }
 
-.start-link:hover {
+.link:hover {
   color: white;
   background-color: black;
+}
+
+td, th{
+  padding: 1px 5px 7px 5px;
 }
